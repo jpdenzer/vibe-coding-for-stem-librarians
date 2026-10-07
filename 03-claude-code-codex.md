@@ -72,6 +72,8 @@ cd /Users/yourname/Documents/my-project
 
 ## Installing and starting Claude Code
 
+> **On Windows?** The [Set Up Claude Code on Windows](tutorials/claude-code-windows.md) tutorial walks through every screen, with troubleshooting.
+
 ### 1. Install
 
 Open a terminal and paste the command for your computer:

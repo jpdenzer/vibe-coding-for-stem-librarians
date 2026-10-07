@@ -59,7 +59,7 @@ Answer the first question that fits you:
    Go to **[02 · Iterating & Debugging](02-iterating-and-debugging.md)**. It covers what to do with error messages and how to tell when the AI is going in circles.
 
 3. **"I have a project folder with several files, and copy-and-paste is getting painful."**
-   You're ready for **[03 · Agentic Tools](03-claude-code-codex.md)**. Read the safety section first.
+   You're ready for **[03 · Agentic Tools](03-claude-code-codex.md)**. Read the safety section first, then follow a step-by-step [tutorial](tutorials/) to install a tool.
 
 4. **"I don't want to code. I want to help students who are."**
    Go straight to **[Helping Students](consultations.md)** and **[Guardrails](guardrails.md)**.
@@ -83,6 +83,7 @@ The [Examples](examples/) section has sample prompts for every rung and a small 
 - [Guardrails](guardrails.md)
 - [Examples](examples/)
   - [Real-World Examples](examples/real-world/)
+- [Tutorials](tutorials/): step-by-step walkthroughs, like [setting up Claude Code on Windows](tutorials/claude-code-windows.md)
 - [Contributing & Feedback](CONTRIBUTING.md)
 
 > **A note on dates and prices:** AI tools change monthly. Model names, free-tier limits, prices, and install commands on this site were checked in October 2026. Each page links to the official docs. If those docs disagree with this site, trust the docs.

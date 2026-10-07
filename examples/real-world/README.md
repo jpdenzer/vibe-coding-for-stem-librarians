@@ -88,4 +88,4 @@ See [Guardrails](../../guardrails.md) for the full privacy and licensing guidanc
 
 ---
 
-[← Previous: Examples](../) · [Next: Contributing & Feedback →](../../CONTRIBUTING.md)
+[← Previous: Examples](../) · [Next: Tutorials →](../../tutorials/)

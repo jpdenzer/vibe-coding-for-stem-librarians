@@ -1,6 +1,6 @@
 ---
 title: "Contributing & Feedback"
-nav_order: 8
+nav_order: 9
 description: "How to suggest corrections, share feedback, or contribute examples."
 ---
 
@@ -35,4 +35,4 @@ By contributing, you agree that your written content is shared under [CC BY 4.0]
 
 ---
 
-[← Previous: Real-World Examples](examples/real-world/) · [Back to Home](index.md)
+[← Previous: Tutorials](tutorials/) · [Back to Home](index.md)
