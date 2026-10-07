@@ -209,6 +209,8 @@ The **Claude desktop app** includes Claude Code in a regular window. You pick a 
 
 All the same safety habits apply: use a dedicated practice folder or a copy of your project.
 
+**Want a Linux environment instead?** Claude Code also runs inside Windows Subsystem for Linux. See [Setting Up WSL on Windows](wsl-setup-guide.md).
+
 ---
 
 ## Keeping it updated, or removing it
@@ -234,4 +236,4 @@ All the same safety habits apply: use a dedicated practice folder or a copy of y
 
 ---
 
-[← Back to Tutorials](./) · [Next: Contributing & Feedback →](../CONTRIBUTING.md)
+[← Back to Tutorials](./) · [Next: Setting Up WSL on Windows →](wsl-setup-guide.md)
