@@ -1,0 +1,69 @@
+# Site settings for GitHub Pages + the Just the Docs theme.
+# You can edit this file on GitHub; the site rebuilds automatically after each commit.
+
+title: Vibe Coding for STEM Librarians
+description: >-
+  A companion resource for the talk "Vibe Coding for STEM Librarians: What It
+  Really Is and How It Can Help You" (NYSCILIB, October 16, 2026). Practical,
+  jargon-light guides from copy-and-paste prompting to agentic coding tools.
+
+# These two lines must match your GitHub username and repository name.
+url: https://jpdenzer.github.io
+baseurl: /vibe-coding-for-stem-librarians
+
+# Theme: loaded remotely so no local Ruby setup is needed on GitHub Pages.
+remote_theme: just-the-docs/just-the-docs@v0.12.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-seo-tag
+
+# Turns links like [Next](02-iterating-and-debugging.md) into .html links on the site,
+# so the same links work on GitHub and on the published website.
+relative_links:
+  enabled: true
+  collections: false
+
+color_scheme: light
+
+# Built-in search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Top-right links
+aux_links:
+  "View on GitHub":
+    - "https://github.com/jpdenzer/vibe-coding-for-stem-librarians"
+aux_links_new_tab: true
+
+# Shows an "Edit this page on GitHub" link at the bottom of each page
+gh_edit_link: true
+gh_edit_link_text: "Suggest an edit to this page on GitHub"
+gh_edit_repository: "https://github.com/jpdenzer/vibe-coding-for-stem-librarians"
+gh_edit_branch: "main"
+gh_edit_view_mode: "edit"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+heading_anchors: true
+
+# Footer text (license + "last updated" date) lives in _includes/footer_custom.html
+
+# Files that should NOT become pages on the website
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .jekyll-cache/
+  - "**/__pycache__/"
