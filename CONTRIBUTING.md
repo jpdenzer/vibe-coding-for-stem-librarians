@@ -33,6 +33,12 @@ Have a vibe-coded library project you'd like to share? Open an issue first to de
 
 By contributing, you agree that your written content is shared under [CC BY 4.0](LICENSE) and any code under the [MIT License](LICENSE-CODE), the same as the rest of this repository.
 
+## AI Attribution & Oversight Statement
+
+- **Tooling:** Development workflows in this repository utilized Claude Code as an interactive coding assistant.
+- **Human Agency:** AI tooling functioned strictly as an assistive aid. All architectural decisions, project design, and final implementations were determined entirely by the author.
+- **Verification:** Every contribution generated or suggested by AI tools has been inspected, executed, and verified by the author, who assumes full responsibility for the contents of this repository.
+
 ---
 
 [← Previous: Tutorials](tutorials/) · [Back to Home](index.md)
