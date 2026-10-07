@@ -18,7 +18,7 @@ Pick a tutorial below to open the full instructions.
 
 ## Setting up tools
 
-### [Set Up Claude Code on Windows](claude-code-windows.md)
+### [Setting Up Claude Code on Windows](claude-code-windows.md)
 
 Install Claude Code on a Windows 10 or 11 computer using PowerShell, sign in, and run your first session in a practice folder. Includes fixes for the most common Windows errors and a no-terminal alternative (the desktop app).
 
@@ -29,6 +29,18 @@ Install Claude Code on a Windows 10 or 11 computer using PowerShell, sign in, an
 Install Claude Code on a Mac with the native installer, Homebrew, or npm, sign in, and start your first session in a practice folder. Also covers updates, release channels, uninstalling, and common fixes.
 
 **Rung:** High (agentic) · **Time:** about 10–15 minutes · **You'll need:** macOS 13 or later, a paid Claude plan, and permission to install software · **Last checked:** October 2026
+
+### [Setting Up Codex on Windows](codex-windows-setup-guide.md)
+
+Install OpenAI's Codex through the ChatGPT desktop app or the command line, set up the Windows agent sandbox, and start your first task. Also covers running Codex inside WSL, sandbox troubleshooting on work computers, and execution-policy errors.
+
+**Rung:** High (agentic) · **Time:** about 15–20 minutes (desktop app) · **You'll need:** Windows 11 or 10 (1809+), a ChatGPT plan that includes Codex, and administrator approval for the sandbox · **Last checked:** October 2026
+
+### [Setting Up Codex on macOS](codex-macos-setup-guide.md)
+
+Install OpenAI's Codex through the ChatGPT desktop app or the command line, sign in, and start your first task in a practice folder. Explains how the macOS sandbox and permission settings work and how to set safe defaults.
+
+**Rung:** High (agentic) · **Time:** about 10–15 minutes (desktop app) · **You'll need:** a Mac (Apple silicon for the desktop app), a ChatGPT plan that includes Codex, and permission to install software · **Last checked:** October 2026
 
 ### [Setting Up WSL on Windows](wsl-setup-guide.md)
 

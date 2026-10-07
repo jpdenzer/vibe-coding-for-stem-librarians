@@ -1,7 +1,7 @@
 ---
 title: "Setting Up WSL on Windows"
 parent: "Tutorials"
-nav_order: 3
+nav_order: 5
 description: "Step-by-step guide to installing and configuring Windows Subsystem for Linux (WSL 2) on Windows 10 and 11."
 ---
 
@@ -9,7 +9,7 @@ description: "Step-by-step guide to installing and configuring Windows Subsystem
 
 Windows Subsystem for Linux (WSL) lets you run a real Linux environment directly on Windows, with no separate virtual machine to manage and no dual-boot setup. This guide covers installing WSL 2, choosing a distribution, configuring it, and fixing common problems.
 
-> **Do you need WSL?** Probably not to get started. Claude Code runs directly on Windows. See [Set Up Claude Code on Windows](claude-code-windows.md). WSL is worth setting up if you want a Linux toolchain, want to follow tutorials written for Mac or Linux, or want Claude Code's [sandboxing](https://code.claude.com/docs/en/sandboxing) feature, which on Windows requires WSL 2.
+> **Do you need WSL?** Probably not to get started. Claude Code runs directly on Windows. See [Setting Up Claude Code on Windows](claude-code-windows.md). WSL is worth setting up if you want a Linux toolchain, want to follow tutorials written for Mac or Linux, or want Claude Code's [sandboxing](https://code.claude.com/docs/en/sandboxing) feature, which on Windows requires WSL 2.
 
 ## Rung
 
@@ -276,7 +276,7 @@ cd ~/projects/claude-practice
 claude
 ```
 
-Sign-in, first prompts, and safety habits are the same as in [Set Up Claude Code on Windows](claude-code-windows.md#step-6-start-claude-code-and-sign-in). See Anthropic's [setup guide](https://code.claude.com/docs/en/setup#set-up-on-windows) for current WSL-specific notes.
+Sign-in, first prompts, and safety habits are the same as in [Setting Up Claude Code on Windows](claude-code-windows.md#step-6-start-claude-code-and-sign-in). See Anthropic's [setup guide](https://code.claude.com/docs/en/setup#set-up-on-windows) for current WSL-specific notes.
 
 ---
 
@@ -526,4 +526,4 @@ Move your project into the Linux filesystem (`~/`) rather than `/mnt/c`. See [Pe
 
 ---
 
-[← Previous: Setting Up Claude Code on macOS](claude-code-macos-setup-guide.md) · [Next: Creating a GitHub Account →](creating-a-github-account.md)
+[← Previous: Setting Up Codex on macOS](codex-macos-setup-guide.md) · [Next: Creating a GitHub Account →](creating-a-github-account.md)

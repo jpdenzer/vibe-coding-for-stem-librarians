@@ -1,11 +1,11 @@
 ---
-title: "Set Up Claude Code on Windows"
+title: "Setting Up Claude Code on Windows"
 parent: "Tutorials"
 nav_order: 1
 description: "Step-by-step: install Claude Code on Windows 10 or 11 with PowerShell, sign in, and run a first session safely."
 ---
 
-# Set Up Claude Code on Windows
+# Setting Up Claude Code on Windows
 
 **Rung:** High (agentic) · **Time:** about 20 minutes · **Last checked:** October 2026
 

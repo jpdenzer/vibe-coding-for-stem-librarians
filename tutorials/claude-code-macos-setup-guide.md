@@ -374,4 +374,4 @@ Claude Code normally includes the search tool (ripgrep) it needs. If searches fa
 
 ---
 
-[← Previous: Set Up Claude Code on Windows](claude-code-windows.md) · [Next: Setting Up WSL on Windows →](wsl-setup-guide.md)
+[← Previous: Setting Up Claude Code on Windows](claude-code-windows.md) · [Next: Setting Up Codex on Windows →](codex-windows-setup-guide.md)

@@ -138,6 +138,8 @@ codex
 
 The first time, choose **Sign in with ChatGPT** and finish signing in in your browser.
 
+> **Want a step-by-step walkthrough?** See the tutorials for [Codex on Windows](tutorials/codex-windows-setup-guide.md) and [Codex on macOS](tutorials/codex-macos-setup-guide.md).
+
 > **Check the official docs:** [Codex CLI](https://developers.openai.com/codex/cli) · [Codex on GitHub](https://github.com/openai/codex) · [ChatGPT plans](https://openai.com/chatgpt/pricing/)
 
 ---
