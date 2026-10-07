@@ -24,6 +24,12 @@ Install Claude Code on a Windows 10 or 11 computer using PowerShell, sign in, an
 
 **Rung:** High (agentic) · **Time:** about 20 minutes · **You'll need:** a paid Claude plan and permission to install software · **Last checked:** October 2026
 
+### [Setting Up Claude Code on macOS](claude-code-macos-setup-guide.md)
+
+Install Claude Code on a Mac with the native installer, Homebrew, or npm, sign in, and start your first session in a practice folder. Also covers updates, release channels, uninstalling, and common fixes.
+
+**Rung:** High (agentic) · **Time:** about 10–15 minutes · **You'll need:** macOS 13 or later, a paid Claude plan, and permission to install software · **Last checked:** October 2026
+
 ### [Setting Up WSL on Windows](wsl-setup-guide.md)
 
 Install Windows Subsystem for Linux (WSL 2) to get a real Linux environment on your Windows computer: enabling virtualization, installing Ubuntu, setting up Git and VS Code, and installing Claude Code inside WSL. Optional, since most people can skip this and use Claude Code directly on Windows.

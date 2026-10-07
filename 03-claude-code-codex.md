@@ -72,7 +72,7 @@ cd /Users/yourname/Documents/my-project
 
 ## Installing and starting Claude Code
 
-> **On Windows?** The [Set Up Claude Code on Windows](tutorials/claude-code-windows.md) tutorial walks through every screen, with troubleshooting.
+> **Want a step-by-step walkthrough?** See the tutorials for [Windows](tutorials/claude-code-windows.md) and [macOS](tutorials/claude-code-macos-setup-guide.md), which go through every screen and include troubleshooting.
 
 ### 1. Install
 

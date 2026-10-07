@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Title"
 parent: "Tutorials"
-nav_order: 3
+nav_order: 4
 description: "One sentence: what the reader will be able to do by the end."
 ---
 

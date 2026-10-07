@@ -236,4 +236,4 @@ All the same safety habits apply: use a dedicated practice folder or a copy of y
 
 ---
 
-[← Back to Tutorials](./) · [Next: Setting Up WSL on Windows →](wsl-setup-guide.md)
+[← Back to Tutorials](./) · [Next: Setting Up Claude Code on macOS →](claude-code-macos-setup-guide.md)
