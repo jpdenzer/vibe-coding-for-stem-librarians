@@ -526,4 +526,4 @@ Move your project into the Linux filesystem (`~/`) rather than `/mnt/c`. See [Pe
 
 ---
 
-[← Previous: Setting Up Claude Code on macOS](claude-code-macos-setup-guide.md) · [Next: Contributing & Feedback →](../CONTRIBUTING.md)
+[← Previous: Setting Up Claude Code on macOS](claude-code-macos-setup-guide.md) · [Next: Creating a GitHub Account →](creating-a-github-account.md)

@@ -220,6 +220,8 @@ git add .
 git commit -m "Starting point before any AI changes"
 ```
 
+**New to Git and GitHub?** The [Creating a GitHub Account](tutorials/creating-a-github-account.md) tutorial walks through installing and setting up Git step by step.
+
 **Prefer buttons to commands?** [GitHub Desktop](https://desktop.github.com/) is a free app that does the same thing with a point-and-click interface, and it works without a GitHub account for local-only projects.
 
 After each step that works, commit again (or ask the agent to). Then you can always get back to the last good version.

@@ -36,6 +36,14 @@ Install Windows Subsystem for Linux (WSL 2) to get a real Linux environment on y
 
 **Rung:** Supports High (agentic) · **Time:** about 20–30 minutes, including a restart · **You'll need:** Windows 10 (2004+) or 11 and administrator access · **Last checked:** October 2026
 
+## Version control and sharing
+
+### [Creating a GitHub Account](creating-a-github-account.md)
+
+Create and secure a free GitHub account, make your first repository in the browser, then install Git, connect your computer, and push a change from your own machine. Also covers creating repos with the GitHub CLI and publishing a site with GitHub Pages.
+
+**Rung:** Supports all rungs · **Time:** about 30–40 minutes · **You'll need:** an email address, a phone or passkey for two-factor authentication, and permission to install software · **Last checked:** October 2026
+
 ---
 
 ## More tutorials coming
