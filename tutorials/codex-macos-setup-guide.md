@@ -394,4 +394,4 @@ brew install --cask codex
 
 ---
 
-[← Previous: Setting Up Codex on Windows](codex-windows-setup-guide.md) · [Next: Setting Up WSL on Windows →](wsl-setup-guide.md)
+[← Previous: Setting Up Codex on Windows](codex-windows-setup-guide.md) · [Next: Setting Up Python on Windows →](python-windows-setup-guide.md)

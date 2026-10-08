@@ -1,7 +1,7 @@
 ---
 title: "Creating a GitHub Account"
 parent: "Tutorials"
-nav_order: 6
+nav_order: 8
 description: "Step-by-step guide to creating a GitHub account, setting up Git, and creating and using your first repository."
 ---
 

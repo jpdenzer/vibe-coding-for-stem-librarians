@@ -42,6 +42,18 @@ Install OpenAI's Codex through the ChatGPT desktop app or the command line, sign
 
 **Rung:** High (agentic) · **Time:** about 10–15 minutes (desktop app) · **You'll need:** a Mac (Apple silicon for the desktop app), a ChatGPT plan that includes Codex, and permission to install software · **Last checked:** October 2026
 
+### [Setting Up Python on Windows](python-windows-setup-guide.md)
+
+Install the official Python with the Python install manager, run your first script, create a virtual environment, and install packages with pip. Includes running this site's A–Z list demo and fixes for common Windows problems like the Microsoft Store opening instead of Python.
+
+**Rung:** Low to Mid · **Time:** about 15–20 minutes · **You'll need:** Windows 10 or newer and permission to install apps · **Last checked:** October 2026
+
+### [Setting Up Python on macOS](python-macos-setup-guide.md)
+
+Install the official Python from python.org (or with Homebrew), finish setup with the security certificates, run your first script, create a virtual environment, and install packages with pip. Includes running this site's A–Z list demo.
+
+**Rung:** Low to Mid · **Time:** about 15–20 minutes · **You'll need:** a Mac running macOS 10.15 or later and an administrator account · **Last checked:** October 2026
+
 ### [Setting Up WSL on Windows](wsl-setup-guide.md)
 
 Install Windows Subsystem for Linux (WSL 2) to get a real Linux environment on your Windows computer: enabling virtualization, installing Ubuntu, setting up Git and VS Code, and installing Claude Code inside WSL. Optional, since most people can skip this and use Claude Code directly on Windows.
@@ -60,7 +72,7 @@ Create and secure a free GitHub account, make your first repository in the brows
 
 ## More tutorials coming
 
-More walkthroughs will be added over time. Have an idea for one, or want to write one? See [Contributing & Feedback](../CONTRIBUTING.md). New tutorials follow the template in [`tutorials/_template.md`](https://github.com/jpdenzer/vibe-coding-for-stem-librarians/blob/main/tutorials/_template.md).
+More walkthroughs will be added over time. Have an idea for one, or want to write one? See [Contributing & Feedback](../CONTRIBUTING.md). New "Setting Up" tutorials follow the [guide template](https://github.com/jpdenzer/vibe-coding-for-stem-librarians/blob/main/tutorials/guide-template.md). See [Writing a Setup Guide](../CONTRIBUTING.md#writing-a-setup-guide) for how to use it.
 
 ---
 

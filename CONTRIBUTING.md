@@ -22,6 +22,17 @@ Every page on the website has a **"Suggest an edit to this page on GitHub"** lin
 
 Have a vibe-coded library project you'd like to share? Open an issue first to describe it. Examples should follow the format on the [Real-World Examples](examples/real-world/) page: the original prompt, what the AI produced, what went wrong, and how the result was validated.
 
+## Writing a setup guide
+
+Want to add a "Setting Up [Tool] on [Platform]" tutorial? Start from the [guide template](https://github.com/jpdenzer/vibe-coding-for-stem-librarians/blob/main/tutorials/guide-template.md):
+
+1. Copy `tutorials/guide-template.md` to a new file in the same folder with a lowercase, hyphenated name, for example `tutorials/python-linux-setup-guide.md`.
+2. Follow the instructions at the top of the template. They cover the title format, the sections every guide needs, formatting conventions, and the rung labels this site uses.
+3. Delete the `published: false` line when your guide is ready. That line is what keeps the blank template off the website.
+4. Work through the checklist at the bottom of the template, then open a pull request. Say which commands you tested and which you only checked against the official documentation.
+
+Not comfortable with pull requests? Open an issue with your draft attached and we'll help get it in.
+
 ## Ground rules
 
 - **No real data, ever.** No patron or student information, credentials, API keys, proxy details, or licensed vendor content. Use fake data and placeholders. See [Guardrails](guardrails.md).

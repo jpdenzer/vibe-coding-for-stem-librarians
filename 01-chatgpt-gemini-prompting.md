@@ -147,7 +147,7 @@ The [Examples](examples/) page has a ready-made demo that compares two fake A–
 
 - **Gemini in Colab:** Colab has a built-in Gemini assistant that can write or explain code right inside the notebook. Look for the Gemini or "Generate" button in a cell.
 - **ChatGPT's built-in code running:** ChatGPT can sometimes run Python itself and show you the result, for example when you upload a CSV and ask a question about it. This is handy for quick answers, but you see less of what happened, so ask it to show you the code it ran.
-- **Python on your own computer:** You can install Python from [python.org](https://www.python.org/downloads/) if your institution allows it. You don't need to yet.
+- **Python on your own computer:** You can install Python if your institution allows it. See the tutorials for [Windows](tutorials/python-windows-setup-guide.md) and [macOS](tutorials/python-macos-setup-guide.md). You don't need to yet.
 
 > **Check the official docs:** Colab's free tier has usage limits, and its built-in AI features change regularly. See the [Colab FAQ](https://research.google.com/colaboratory/faq.html).
 

@@ -1,7 +1,7 @@
 ---
 title: "Setting Up WSL on Windows"
 parent: "Tutorials"
-nav_order: 5
+nav_order: 7
 description: "Step-by-step guide to installing and configuring Windows Subsystem for Linux (WSL 2) on Windows 10 and 11."
 ---
 
@@ -526,4 +526,4 @@ Move your project into the Linux filesystem (`~/`) rather than `/mnt/c`. See [Pe
 
 ---
 
-[← Previous: Setting Up Codex on macOS](codex-macos-setup-guide.md) · [Next: Creating a GitHub Account →](creating-a-github-account.md)
+[← Previous: Setting Up Python on macOS](python-macos-setup-guide.md) · [Next: Creating a GitHub Account →](creating-a-github-account.md)

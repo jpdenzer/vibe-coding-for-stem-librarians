@@ -206,7 +206,7 @@ A naive exact-match comparison would report most of these as "unique" titles, wh
 
 ### Run it on your own computer
 
-If you have Python 3 installed ([python.org](https://www.python.org/downloads/)), download this repository (green **Code** button → **Download ZIP** on GitHub), unzip it, open a terminal in the `examples` folder, and run:
+If you have Python 3 installed (see the setup tutorials for [Windows](../tutorials/python-windows-setup-guide.md) and [macOS](../tutorials/python-macos-setup-guide.md)), download this repository (green **Code** button → **Download ZIP** on GitHub), unzip it, open a terminal in the `examples` folder, and run:
 
 ```bash
 python compare_az_lists.py
