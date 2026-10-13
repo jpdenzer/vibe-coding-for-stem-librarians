@@ -84,6 +84,7 @@ The [Examples](examples/) section has sample prompts for every rung and a small 
 - [Examples](examples/)
   - [Real-World Examples](examples/real-world/)
 - [Tutorials](tutorials/): step-by-step walkthroughs, like [setting up Claude Code on Windows](tutorials/claude-code-windows.md)
+- [Tools & Tips](tools-and-tips/): recommended software, hardware, and helpful habits
 - [Contributing & Feedback](CONTRIBUTING.md)
 
 > **A note on dates and prices:** AI tools change monthly. Model names, free-tier limits, prices, and install commands on this site were checked in October 2026. Each page links to the official docs. If those docs disagree with this site, trust the docs.

@@ -76,4 +76,4 @@ More walkthroughs will be added over time. Have an idea for one, or want to writ
 
 ---
 
-[← Previous: Real-World Examples](../examples/real-world/) · [Next: Contributing & Feedback →](../CONTRIBUTING.md)
+[← Previous: Real-World Examples](../examples/real-world/) · [Next: Tools & Tips →](../tools-and-tips/)
