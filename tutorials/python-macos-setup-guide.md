@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Python on macOS"
 parent: "Tutorials"
-nav_order: 6
+nav_order: 8
 description: "Step-by-step guide to installing Python on a Mac with the official python.org installer or Homebrew, creating virtual environments, and fixing common problems."
 ---
 

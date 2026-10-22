@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Python on Windows"
 parent: "Tutorials"
-nav_order: 5
+nav_order: 7
 description: "Step-by-step guide to installing Python on Windows with the Python install manager, creating virtual environments, and fixing common problems."
 ---
 
@@ -531,4 +531,4 @@ You may find older tutorials that tell you to download an `.exe` installer and c
 
 ---
 
-[← Previous: Setting Up Codex on macOS](codex-macos-setup-guide.md) · [Next: Setting Up Python on macOS →](python-macos-setup-guide.md)
+[← Previous: Setting Up OpenCode on macOS](opencode-macos-setup-guide.md) · [Next: Setting Up Python on macOS →](python-macos-setup-guide.md)

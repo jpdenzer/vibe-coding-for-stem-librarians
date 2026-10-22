@@ -42,6 +42,18 @@ Install OpenAI's Codex through the ChatGPT desktop app or the command line, sign
 
 **Rung:** High (agentic) · **Time:** about 10–15 minutes (desktop app) · **You'll need:** a Mac (Apple silicon for the desktop app), a ChatGPT plan that includes Codex, and permission to install software · **Last checked:** October 2026
 
+### [Setting Up OpenCode on Windows](opencode-windows-setup-guide.md)
+
+Install OpenCode 2, the free, open-source coding agent that works with many AI models, using npm in PowerShell. Connect a model, set ask-first permissions in a practice folder, and plan and build your first task. Also covers WSL, the desktop app, and how to avoid outdated OpenCode 1 instructions.
+
+**Rung:** High (agentic) · **Time:** about 20 minutes · **You'll need:** Windows 10 or 11, a model provider (free models are available), and permission to install software · **Last checked:** October 2026
+
+### [Setting Up OpenCode on macOS](opencode-macos-setup-guide.md)
+
+Install OpenCode 2 on a Mac with the install script, Homebrew, or npm. Connect a model, set ask-first permissions in a practice folder, and plan and build your first task. Also covers the desktop app, updates, and uninstalling.
+
+**Rung:** High (agentic) · **Time:** about 10–15 minutes · **You'll need:** a Mac (Apple silicon or Intel), Git, a model provider (free models are available), and permission to install software · **Last checked:** October 2026
+
 ### [Setting Up Python on Windows](python-windows-setup-guide.md)
 
 Install the official Python with the Python install manager, run your first script, create a virtual environment, and install packages with pip. Includes running this site's A–Z list demo and fixes for common Windows problems like the Microsoft Store opening instead of Python.
